@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataProtectionUserConfig SchemaVersion="1">
+  <UserName>884338@hboe.org</UserName>
+  <FriendlyName>Isaac Tawney</FriendlyName>
+  <PCName>HBR-PA132-24</PCName>
+  <UserId>3c4bbe48-0e48-46fb-aba6-f081dd8b9b64</UserId>
+  <Library>
+    <LibraryName>*2112ab0a-c86a-4ffe-a368-0de96e47012e</LibraryName>
+    <Folder>C:\Users\884338\Music</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*491e922f-5643-4af4-a7eb-4e7a138d8174</LibraryName>
+    <Folder>C:\Users\884338\Videos</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*7b0db17d-9cd2-4a93-9733-46cc89022e7c</LibraryName>
+    <Folder>C:\Users\884338\Documents</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*a990ae9f-a03b-4e80-94bc-9912d7504104</LibraryName>
+    <Folder>C:\Users\884338\Pictures</Folder>
+  </Library>
+  <UserFolder>C:\Users\884338\Searches</UserFolder>
+  <UserFolder>C:\Users\884338\Desktop</UserFolder>
+  <UserFolder>C:\Users\884338\Contacts</UserFolder>
+  <UserFolder>C:\Users\884338\Pictures</UserFolder>
+  <UserFolder>C:\Users\884338\Favorites</UserFolder>
+  <UserFolder>C:\Users\884338\Videos</UserFolder>
+  <UserFolder>C:\Users\884338\Music</UserFolder>
+  <UserFolder>C:\Users\884338\Downloads</UserFolder>
+  <UserFolder>C:\Users\884338\Documents</UserFolder>
+  <UserFolder>C:\Users\884338\Links</UserFolder>
+  <UserFolder>C:\Users\884338\Saved Games</UserFolder>
+  <LocalCatalogPath1>C:\Users\884338\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog1.edb</LocalCatalogPath1>
+  <LocalCatalogPath2>C:\Users\884338\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog2.edb</LocalCatalogPath2>
+  <StagingArea>
+    <StagingAreaPath>C:\Users\884338\AppData\Local\Microsoft\Windows\FileHistory\Data</StagingAreaPath>
+    <StagingAreaMaximumCapacity>2473700864</StagingAreaMaximumCapacity>
+    <StagingAreaWarningThreshold>1855275648</StagingAreaWarningThreshold>
+  </StagingArea>
+  <AvailabilityPolicies>
+    <TargetAbsenceTime>5</TargetAbsenceTime>
+    <TimeInUnprotectedState>3</TimeInUnprotectedState>
+  </AvailabilityPolicies>
+  <RetentionPolicies>
+    <RetentionPolicyType>DISABLED</RetentionPolicyType>
+    <MinimumRetentionAge>365</MinimumRetentionAge>
+  </RetentionPolicies>
+  <DPFrequency>3600</DPFrequency>
+  <DPStatus>DISABLED</DPStatus>
+  <Target>
+    <TargetName>EMTEC C450 (D:)</TargetName>
+    <TargetUrl>D:\</TargetUrl>
+    <TargetVolumePath>\\?\Volume{1c46f054-314b-11ea-8181-8cdcd44a608c}\</TargetVolumePath>
+    <TargetDriveType>REMOVABLE</TargetDriveType>
+    <TargetConfigPath1>884338@hboe.org\HBR-PA132-24\Configuration\Config1.xml</TargetConfigPath1>
+    <TargetConfigPath2>884338@hboe.org\HBR-PA132-24\Configuration\Config2.xml</TargetConfigPath2>
+    <TargetCatalogPath1>884338@hboe.org\HBR-PA132-24\Configuration\Catalog1.edb</TargetCatalogPath1>
+    <TargetCatalogPath2>884338@hboe.org\HBR-PA132-24\Configuration\Catalog2.edb</TargetCatalogPath2>
+    <TargetBackupStorePath>884338@hboe.org\HBR-PA132-24\Data</TargetBackupStorePath>
+    <TargetWarningThreshold>98</TargetWarningThreshold>
+  </Target>
+</DataProtectionUserConfig>
